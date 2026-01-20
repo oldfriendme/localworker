@@ -1,0 +1,8 @@
+{
+	"listen": "127.0.0.1:8080",
+	"enable_ssl": false,
+	"workdir": "D:\\cf_worker\\www",
+	"appfile": "D:\\cf_worker\\workerd-windows-64\\workerd.exe",
+	"user": "admin",
+	"pass": "123456"
+}
